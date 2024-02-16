@@ -8,7 +8,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=andersonjreng&show_icons=true&theme=radical" alt="Anurag's GitHub stats" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical" alt="Top Langs" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonjreng&hide_progress=true&theme=radical" alt="Top Langs" width="400" height="200"/>
 </div>
 
 <div style="display: inline_block"><br>

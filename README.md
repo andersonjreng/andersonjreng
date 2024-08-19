@@ -1,6 +1,6 @@
 ### Heey, aqui é o Anderson Júnior 👋
 
-💻 Desenvolvedor atuando em projetos no front-end
+💻 Desenvolvedor Júnior
 <br>
 📚 Pós-graduando em Desenvolvimento Full Stack
 <br>

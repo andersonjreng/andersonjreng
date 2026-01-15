@@ -1,10 +1,10 @@
 ### Heey, aqui é o Anderson Júnior 👋
 
-💻 Desenvolvedor Júnior
+💻 Desenvolvedor web Angular
 <br>
-📚 Pós-graduando em Desenvolvimento Full Stack
+📚 Pós-graduado em Desenvolvimento Full Stack
 <br>
-🎓 Formado em Engenharia de Produção e Marketing Digital
+🎓 Graduando em Análise e Desenvolvimento de Sistemas e Formado em Engenharia de Produção e Marketing Digital
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=andersonjreng&show_icons=true&theme=radical" alt="Anurag's GitHub stats" width="400" height="200"/>
